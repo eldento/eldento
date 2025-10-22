@@ -1,36 +1,37 @@
-#  Hi, I'm Efe Mustafa Taş  
+# 👋 Hi, I'm Efe Mustafa Taş  
 
- 12th-grade IT student at **Kepez Vocational and Technical Anatolian High School**  
- Passionate about **Software Development** and **Web Technologies**
- Based in **Antalya, Turkey**
-
----
-
-## About Me
--  Focused on **Python**, **ASP.NET Core MVC**, and **Frontend Development**  
--  Continuously learning **JavaScript** and **Next.js**  
--  Certified **TFF Football Referee** and lifelong learner  
+🎨 Frontend-focused IT student from Antalya, Turkey  
+💻 Passionate about web design, clean UI, and modern frontend development  
+🌱 Currently learning **JavaScript**, **Next.js**, and improving my **responsive design** skills  
 
 ---
 
-##  Tech Stack
-**Languages:** Python, C#, JavaScript, HTML, CSS  
-**Frameworks & Tools:** ASP.NET Core, Android Studio, Next.js, Entity Framework, Git  
-**Databases:** SQL Server,
+## 🧠 About Me
+- 🚀 Focused on **Frontend Development** (HTML, CSS, JavaScript, Next.js)  
+- 🎓 Developing backend projects as part of my internship (ASP.NET Core & Python)  
+- 🎯 Interested in **UI/UX**, creative layouts, and responsive interfaces  
+- ⚽ Certified **TFF Football Referee**, detail-oriented and disciplined  
 
 ---
 
-## GitHub Stats
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, Next.js, Tailwind CSS  
+**Backend (Staj):** ASP.NET Core MVC, Python  
+**Tools:** Git, VS Code, Figma, Photoshop, After Effects  
+**Database:** SQL Server  
+
+---
+
+## 📊 GitHub Stats
 ![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldento&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldento&layout=compact&theme=github_dark)
 
 ---
 
-## Contact Me
+## 📫 Contact Me
 📧 **efemus070@gmail.com**  
-🌍 [Portfolio (coming soon)](#)
+🌍 [GitHub](https://github.com/eldento)
 
 ---
 
-> “Continuous improvement is better than delayed perfection.”  
-> — Mark Twain
+> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
